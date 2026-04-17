@@ -1,4 +1,5 @@
 # ettevotete-analuus
 
 
-Link streamliti lehele: https://4svtg5gjd9fmqmzv5auhks.streamlit.app/ 
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ettevotete-analyys.streamlit.app/)
