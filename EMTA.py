@@ -4,7 +4,6 @@ import pandas as pd
 import duckdb
 
 
-
 # VAJALIKUD LISAD GRAAFIKUTE TEGEMISEKS
 import matplotlib.pyplot as plt
 import seaborn as sns
